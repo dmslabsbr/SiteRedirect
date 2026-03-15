@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# PHP / Composer (se usar no futuro)
+/vendor/
+composer.lock
+*.log
+
+# Ambiente e sensíveis
+.env
+.env.local
+*.local.php
+
+# Backup e temporários
+*.bak
+*.tmp
+*.temp
